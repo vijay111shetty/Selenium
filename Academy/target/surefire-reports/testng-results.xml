@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FormFill.Academy.FormFillTest" duration-ms="6931" started-at="2021-05-29T16:52:44 IST" finished-at="2021-05-29T16:52:51 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6931" started-at="2021-05-29T16:52:44 IST" finished-at="2021-05-29T16:52:51 IST">
+      <class name="FormFill.Academy.FormFillTest">
+        <test-method status="PASS" signature="initilizes()[pri:0, instance:FormFill.Academy.FormFillTest@15d0c81b]" name="initilizes" is-config="true" duration-ms="3153" started-at="2021-05-29T16:52:44 IST" finished-at="2021-05-29T16:52:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilizes -->
+        <test-method status="PASS" signature="testing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:FormFill.Academy.FormFillTest@15d0c81b]" name="testing" duration-ms="2197" started-at="2021-05-29T16:52:47 IST" data-provider="getData1" finished-at="2021-05-29T16:52:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vijay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vijay111shetty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[03101995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="testing(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:FormFill.Academy.FormFillTest@15d0c81b]" name="testing" duration-ms="1299" started-at="2021-05-29T16:52:49 IST" data-provider="getData1" finished-at="2021-05-29T16:52:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vinod]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vinod111shetty]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4321]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10031995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method status="PASS" signature="closing()[pri:0, instance:FormFill.Academy.FormFillTest@15d0c81b]" name="closing" is-config="true" duration-ms="210" started-at="2021-05-29T16:52:51 IST" finished-at="2021-05-29T16:52:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- FormFill.Academy.FormFillTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- FormFill.Academy.FormFillTest -->
+</testng-results>
